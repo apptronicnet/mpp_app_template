@@ -1,4 +1,4 @@
-# mpp_app_template
+# Multiplatform app template
 
 Template app project for Multiplatform project with Kotlin/Multiplatform + apptronicnet/core framework.
 
